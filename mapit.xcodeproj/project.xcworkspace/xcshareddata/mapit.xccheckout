@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>629DD827-D35F-4048-A51D-59C0ECAE4268</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mapit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AE736895-AC97-489D-8053-97766D4C117B</key>
+		<string>http://svn.iserver.com/svn/members/trunk/iserver-android</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mapit/mapit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AE736895-AC97-489D-8053-97766D4C117B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>AE736895-AC97-489D-8053-97766D4C117B</key>
+		<string>http://svn.iserver.com/svn/members</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.iserver.com/svn/members/trunk/iserver-android/mapit/mapit.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AE736895-AC97-489D-8053-97766D4C117B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AE736895-AC97-489D-8053-97766D4C117B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tttt</string>
+		</dict>
+	</array>
+</dict>
+</plist>
